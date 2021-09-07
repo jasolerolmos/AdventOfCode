@@ -1,0 +1,1432 @@
+Luggage: 594
+Origen: shiny gold bag (4)
+####################### PRIMER HIJO ###################################
+Nombre: dotted magenta bag Cantidad: 3
+<__main__.Contenido object at 0x7f857c6a59e8>
+
+##########################INICIO: dotted magenta bag ################################
+Origen: dotted magenta bag Hijos: (1)
+Nombre: posh violet bag Cantidad: 3
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Devuelvo: 3
+
+##########################FIN: dotted magenta bag ##################################
+
+##########################INICIO: dotted magenta bag ################################
+Origen: dotted magenta bag Hijos: (1)
+Nombre: posh violet bag Cantidad: 3
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Devuelvo: 3
+
+##########################FIN: dotted magenta bag ##################################
+3
+####################### PRIMER HIJO ###################################
+Nombre: shiny beige bag Cantidad: 2
+<__main__.Contenido object at 0x7f857c6a5a20>
+
+##########################INICIO: shiny beige bag ################################
+Origen: shiny beige bag Hijos: (3)
+Nombre: vibrant beige bag Cantidad: 3
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 12
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 12
+Hay: 15
+Nombre: vibrant indigo bag Cantidad: 2
+
+##########################INICIO: vibrant indigo bag ################################
+Origen: vibrant indigo bag Hijos: (4)
+Nombre: pale lavender bag Cantidad: 3
+
+##########################INICIO: pale lavender bag ################################
+Origen: pale lavender bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale lavender bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dotted purple bag Cantidad: 5
+
+##########################INICIO: dotted purple bag ################################
+Origen: dotted purple bag Hijos: (3)
+Nombre: light blue bag Cantidad: 4
+
+##########################INICIO: light blue bag ################################
+Origen: light blue bag Hijos: (3)
+Nombre: clear brown bag Cantidad: 3
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 36
+bolsasEnHijo: 0 cantidadHijos: 12 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 36
+Hay: 39
+Nombre: posh violet bag Cantidad: 3
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 39 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 42
+Nombre: bright brown bag Cantidad: 3
+
+##########################INICIO: bright brown bag ################################
+Origen: bright brown bag Hijos: (2)
+Nombre: dark coral bag Cantidad: 5
+
+##########################INICIO: dark coral bag ################################
+Origen: dark coral bag Hijos: (3)
+Nombre: pale tan bag Cantidad: 1
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 1
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 1 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 4
+Nombre: clear brown bag Cantidad: 4
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 48
+bolsasEnHijo: 4 cantidadHijos: 12 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 48
+Hay: 56
+Devuelvo: 56
+
+##########################FIN: dark coral bag ##################################
+Vienen del hijo: 56
+Bolsas * lo que viene: 280
+bolsasEnHijo: 0 cantidadHijos: 56 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 280
+Hay: 285
+Nombre: dim fuchsia bag Cantidad: 5
+
+##########################INICIO: dim fuchsia bag ################################
+Origen: dim fuchsia bag Hijos: (1)
+Nombre: pale tan bag Cantidad: 5
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: dim fuchsia bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 25
+bolsasEnHijo: 285 cantidadHijos: 5 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 25
+Hay: 315
+Devuelvo: 315
+
+##########################FIN: bright brown bag ##################################
+Vienen del hijo: 315
+Bolsas * lo que viene: 945
+bolsasEnHijo: 42 cantidadHijos: 315 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 945
+Hay: 990
+Devuelvo: 990
+
+##########################FIN: light blue bag ##################################
+Vienen del hijo: 990
+Bolsas * lo que viene: 3960
+bolsasEnHijo: 0 cantidadHijos: 990 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 3960
+Hay: 3964
+Nombre: wavy gray bag Cantidad: 4
+
+##########################INICIO: wavy gray bag ################################
+Origen: wavy gray bag Hijos: (1)
+Nombre: vibrant beige bag Cantidad: 1
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 4
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 4
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: wavy gray bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 3964 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 3988
+Nombre: pale lavender bag Cantidad: 5
+
+##########################INICIO: pale lavender bag ################################
+Origen: pale lavender bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale lavender bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3988 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 3993
+Devuelvo: 3993
+
+##########################FIN: dotted purple bag ##################################
+Vienen del hijo: 3993
+Bolsas * lo que viene: 19965
+bolsasEnHijo: 3 cantidadHijos: 3993 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 19965
+Hay: 19973
+Nombre: dotted white bag Cantidad: 5
+
+##########################INICIO: dotted white bag ################################
+Origen: dotted white bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dotted white bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 19973 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 19978
+Nombre: wavy magenta bag Cantidad: 2
+
+##########################INICIO: wavy magenta bag ################################
+Origen: wavy magenta bag Hijos: (4)
+Nombre: vibrant beige bag Cantidad: 4
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 16
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 16
+Hay: 20
+Nombre: bright fuchsia bag Cantidad: 4
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 20 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 24
+Nombre: mirrored yellow bag Cantidad: 1
+
+##########################INICIO: mirrored yellow bag ################################
+Origen: mirrored yellow bag Hijos: (2)
+Nombre: mirrored violet bag Cantidad: 2
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 0
+Hay: 2
+Nombre: clear brown bag Cantidad: 5
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 60
+bolsasEnHijo: 2 cantidadHijos: 12 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 60
+Hay: 67
+Devuelvo: 67
+
+##########################FIN: mirrored yellow bag ##################################
+Vienen del hijo: 67
+Bolsas * lo que viene: 67
+bolsasEnHijo: 24 cantidadHijos: 67 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 67
+Hay: 92
+Nombre: dim fuchsia bag Cantidad: 4
+
+##########################INICIO: dim fuchsia bag ################################
+Origen: dim fuchsia bag Hijos: (1)
+Nombre: pale tan bag Cantidad: 5
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: dim fuchsia bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 92 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 116
+Devuelvo: 116
+
+##########################FIN: wavy magenta bag ##################################
+Vienen del hijo: 116
+Bolsas * lo que viene: 232
+bolsasEnHijo: 19978 cantidadHijos: 116 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 232
+Hay: 20212
+Devuelvo: 20212
+
+##########################FIN: vibrant indigo bag ##################################
+Vienen del hijo: 20212
+Bolsas * lo que viene: 40424
+bolsasEnHijo: 15 cantidadHijos: 20212 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 40424
+Hay: 40441
+Nombre: plaid blue bag Cantidad: 3
+
+##########################INICIO: plaid blue bag ################################
+Origen: plaid blue bag Hijos: (3)
+Nombre: dull gold bag Cantidad: 5
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Nombre: wavy gray bag Cantidad: 4
+
+##########################INICIO: wavy gray bag ################################
+Origen: wavy gray bag Hijos: (1)
+Nombre: vibrant beige bag Cantidad: 1
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 4
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 4
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: wavy gray bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 5 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 29
+Nombre: mirrored violet bag Cantidad: 5
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 29 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 34
+Devuelvo: 34
+
+##########################FIN: plaid blue bag ##################################
+Vienen del hijo: 34
+Bolsas * lo que viene: 102
+bolsasEnHijo: 40441 cantidadHijos: 34 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 102
+Hay: 40546
+Devuelvo: 40546
+
+##########################FIN: shiny beige bag ##################################
+
+##########################INICIO: shiny beige bag ################################
+Origen: shiny beige bag Hijos: (3)
+Nombre: vibrant beige bag Cantidad: 3
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 12
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 12
+Hay: 15
+Nombre: vibrant indigo bag Cantidad: 2
+
+##########################INICIO: vibrant indigo bag ################################
+Origen: vibrant indigo bag Hijos: (4)
+Nombre: pale lavender bag Cantidad: 3
+
+##########################INICIO: pale lavender bag ################################
+Origen: pale lavender bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale lavender bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dotted purple bag Cantidad: 5
+
+##########################INICIO: dotted purple bag ################################
+Origen: dotted purple bag Hijos: (3)
+Nombre: light blue bag Cantidad: 4
+
+##########################INICIO: light blue bag ################################
+Origen: light blue bag Hijos: (3)
+Nombre: clear brown bag Cantidad: 3
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 36
+bolsasEnHijo: 0 cantidadHijos: 12 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 36
+Hay: 39
+Nombre: posh violet bag Cantidad: 3
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 39 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 42
+Nombre: bright brown bag Cantidad: 3
+
+##########################INICIO: bright brown bag ################################
+Origen: bright brown bag Hijos: (2)
+Nombre: dark coral bag Cantidad: 5
+
+##########################INICIO: dark coral bag ################################
+Origen: dark coral bag Hijos: (3)
+Nombre: pale tan bag Cantidad: 1
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 1
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 1 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 4
+Nombre: clear brown bag Cantidad: 4
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 48
+bolsasEnHijo: 4 cantidadHijos: 12 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 48
+Hay: 56
+Devuelvo: 56
+
+##########################FIN: dark coral bag ##################################
+Vienen del hijo: 56
+Bolsas * lo que viene: 280
+bolsasEnHijo: 0 cantidadHijos: 56 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 280
+Hay: 285
+Nombre: dim fuchsia bag Cantidad: 5
+
+##########################INICIO: dim fuchsia bag ################################
+Origen: dim fuchsia bag Hijos: (1)
+Nombre: pale tan bag Cantidad: 5
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: dim fuchsia bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 25
+bolsasEnHijo: 285 cantidadHijos: 5 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 25
+Hay: 315
+Devuelvo: 315
+
+##########################FIN: bright brown bag ##################################
+Vienen del hijo: 315
+Bolsas * lo que viene: 945
+bolsasEnHijo: 42 cantidadHijos: 315 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 945
+Hay: 990
+Devuelvo: 990
+
+##########################FIN: light blue bag ##################################
+Vienen del hijo: 990
+Bolsas * lo que viene: 3960
+bolsasEnHijo: 0 cantidadHijos: 990 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 3960
+Hay: 3964
+Nombre: wavy gray bag Cantidad: 4
+
+##########################INICIO: wavy gray bag ################################
+Origen: wavy gray bag Hijos: (1)
+Nombre: vibrant beige bag Cantidad: 1
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 4
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 4
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: wavy gray bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 3964 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 3988
+Nombre: pale lavender bag Cantidad: 5
+
+##########################INICIO: pale lavender bag ################################
+Origen: pale lavender bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale lavender bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3988 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 3993
+Devuelvo: 3993
+
+##########################FIN: dotted purple bag ##################################
+Vienen del hijo: 3993
+Bolsas * lo que viene: 19965
+bolsasEnHijo: 3 cantidadHijos: 3993 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 19965
+Hay: 19973
+Nombre: dotted white bag Cantidad: 5
+
+##########################INICIO: dotted white bag ################################
+Origen: dotted white bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dotted white bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 19973 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 19978
+Nombre: wavy magenta bag Cantidad: 2
+
+##########################INICIO: wavy magenta bag ################################
+Origen: wavy magenta bag Hijos: (4)
+Nombre: vibrant beige bag Cantidad: 4
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 16
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 16
+Hay: 20
+Nombre: bright fuchsia bag Cantidad: 4
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 20 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 24
+Nombre: mirrored yellow bag Cantidad: 1
+
+##########################INICIO: mirrored yellow bag ################################
+Origen: mirrored yellow bag Hijos: (2)
+Nombre: mirrored violet bag Cantidad: 2
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 0
+Hay: 2
+Nombre: clear brown bag Cantidad: 5
+
+##########################INICIO: clear brown bag ################################
+Origen: clear brown bag Hijos: (2)
+Nombre: plaid brown bag Cantidad: 1
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 6
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 6
+Hay: 7
+Nombre: posh violet bag Cantidad: 5
+
+##########################INICIO: posh violet bag ################################
+Origen: posh violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: posh violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 7 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 12
+Devuelvo: 12
+
+##########################FIN: clear brown bag ##################################
+Vienen del hijo: 12
+Bolsas * lo que viene: 60
+bolsasEnHijo: 2 cantidadHijos: 12 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 60
+Hay: 67
+Devuelvo: 67
+
+##########################FIN: mirrored yellow bag ##################################
+Vienen del hijo: 67
+Bolsas * lo que viene: 67
+bolsasEnHijo: 24 cantidadHijos: 67 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 67
+Hay: 92
+Nombre: dim fuchsia bag Cantidad: 4
+
+##########################INICIO: dim fuchsia bag ################################
+Origen: dim fuchsia bag Hijos: (1)
+Nombre: pale tan bag Cantidad: 5
+
+##########################INICIO: pale tan bag ################################
+Origen: pale tan bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: pale tan bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: dim fuchsia bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 92 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 116
+Devuelvo: 116
+
+##########################FIN: wavy magenta bag ##################################
+Vienen del hijo: 116
+Bolsas * lo que viene: 232
+bolsasEnHijo: 19978 cantidadHijos: 116 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 232
+Hay: 20212
+Devuelvo: 20212
+
+##########################FIN: vibrant indigo bag ##################################
+Vienen del hijo: 20212
+Bolsas * lo que viene: 40424
+bolsasEnHijo: 15 cantidadHijos: 20212 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 40424
+Hay: 40441
+Nombre: plaid blue bag Cantidad: 3
+
+##########################INICIO: plaid blue bag ################################
+Origen: plaid blue bag Hijos: (3)
+Nombre: dull gold bag Cantidad: 5
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 5
+Nombre: wavy gray bag Cantidad: 4
+
+##########################INICIO: wavy gray bag ################################
+Origen: wavy gray bag Hijos: (1)
+Nombre: vibrant beige bag Cantidad: 1
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 4
+bolsasEnHijo: 0 cantidadHijos: 4 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 4
+Hay: 5
+Devuelvo: 5
+
+##########################FIN: wavy gray bag ##################################
+Vienen del hijo: 5
+Bolsas * lo que viene: 20
+bolsasEnHijo: 5 cantidadHijos: 5 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 20
+Hay: 29
+Nombre: mirrored violet bag Cantidad: 5
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 29 cantidadHijos: 0 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 0
+Hay: 34
+Devuelvo: 34
+
+##########################FIN: plaid blue bag ##################################
+Vienen del hijo: 34
+Bolsas * lo que viene: 102
+bolsasEnHijo: 40441 cantidadHijos: 34 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 102
+Hay: 40546
+Devuelvo: 40546
+
+##########################FIN: shiny beige bag ##################################
+40546
+####################### PRIMER HIJO ###################################
+Nombre: plaid brown bag Cantidad: 3
+<__main__.Contenido object at 0x7f857c6a5a58>
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+
+##########################INICIO: plaid brown bag ################################
+Origen: plaid brown bag Hijos: (2)
+Nombre: dull orange bag Cantidad: 3
+
+##########################INICIO: dull orange bag ################################
+Origen: dull orange bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull orange bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dim plum bag Cantidad: 3
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: plaid brown bag ##################################
+6
+####################### PRIMER HIJO ###################################
+Nombre: clear indigo bag Cantidad: 5
+<__main__.Contenido object at 0x7f857c6a5a90>
+
+##########################INICIO: clear indigo bag ################################
+Origen: clear indigo bag Hijos: (2)
+Nombre: posh orange bag Cantidad: 4
+
+##########################INICIO: posh orange bag ################################
+Origen: posh orange bag Hijos: (2)
+Nombre: drab olive bag Cantidad: 5
+
+##########################INICIO: drab olive bag ################################
+Origen: drab olive bag Hijos: (2)
+Nombre: dim plum bag Cantidad: 2
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 0
+Hay: 2
+Nombre: mirrored violet bag Cantidad: 4
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 2 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: drab olive bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 30
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 30
+Hay: 35
+Nombre: vibrant beige bag Cantidad: 5
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 20
+bolsasEnHijo: 35 cantidadHijos: 4 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 20
+Hay: 60
+Devuelvo: 60
+
+##########################FIN: posh orange bag ##################################
+Vienen del hijo: 60
+Bolsas * lo que viene: 240
+bolsasEnHijo: 0 cantidadHijos: 60 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 240
+Hay: 244
+Nombre: dull gold bag Cantidad: 4
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 244 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 248
+Devuelvo: 248
+
+##########################FIN: clear indigo bag ##################################
+
+##########################INICIO: clear indigo bag ################################
+Origen: clear indigo bag Hijos: (2)
+Nombre: posh orange bag Cantidad: 4
+
+##########################INICIO: posh orange bag ################################
+Origen: posh orange bag Hijos: (2)
+Nombre: drab olive bag Cantidad: 5
+
+##########################INICIO: drab olive bag ################################
+Origen: drab olive bag Hijos: (2)
+Nombre: dim plum bag Cantidad: 2
+
+##########################INICIO: dim plum bag ################################
+Origen: dim plum bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dim plum bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 2 cantidad * cantidadHijos: 0
+Hay: 2
+Nombre: mirrored violet bag Cantidad: 4
+
+##########################INICIO: mirrored violet bag ################################
+Origen: mirrored violet bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: mirrored violet bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 2 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 6
+Devuelvo: 6
+
+##########################FIN: drab olive bag ##################################
+Vienen del hijo: 6
+Bolsas * lo que viene: 30
+bolsasEnHijo: 0 cantidadHijos: 6 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 30
+Hay: 35
+Nombre: vibrant beige bag Cantidad: 5
+
+##########################INICIO: vibrant beige bag ################################
+Origen: vibrant beige bag Hijos: (2)
+Nombre: bright fuchsia bag Cantidad: 3
+
+##########################INICIO: bright fuchsia bag ################################
+Origen: bright fuchsia bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: bright fuchsia bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 0 cantidadHijos: 0 cadaBolsa.cantidad 3 cantidad * cantidadHijos: 0
+Hay: 3
+Nombre: dull gold bag Cantidad: 1
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 3 cantidadHijos: 0 cadaBolsa.cantidad 1 cantidad * cantidadHijos: 0
+Hay: 4
+Devuelvo: 4
+
+##########################FIN: vibrant beige bag ##################################
+Vienen del hijo: 4
+Bolsas * lo que viene: 20
+bolsasEnHijo: 35 cantidadHijos: 4 cadaBolsa.cantidad 5 cantidad * cantidadHijos: 20
+Hay: 60
+Devuelvo: 60
+
+##########################FIN: posh orange bag ##################################
+Vienen del hijo: 60
+Bolsas * lo que viene: 240
+bolsasEnHijo: 0 cantidadHijos: 60 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 240
+Hay: 244
+Nombre: dull gold bag Cantidad: 4
+
+##########################INICIO: dull gold bag ################################
+Origen: dull gold bag Hijos: (0)
+Devuelvo: 0
+
+##########################FIN: dull gold bag ##################################
+Vienen del hijo: 0
+Bolsas * lo que viene: 0
+bolsasEnHijo: 244 cantidadHijos: 0 cadaBolsa.cantidad 4 cantidad * cantidadHijos: 0
+Hay: 248
+Devuelvo: 248
+
+##########################FIN: clear indigo bag ##################################
+248
+Solución 2: 82364
+Elapsed time: 0.0082123280 seconds.

@@ -1,0 +1,168 @@
+iyr:2023 cid:146 byr:2022 ecl:dne hgt:76in eyr:2040 hcl:z
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1975 hcl:z eyr:1988 pid:#c36f52 iyr:2018 hgt:184cm
+	Tiene: 6 Válidos: 6 resultado: 0
+hcl:4c44fb iyr:1957 eyr:2039 ecl:grt hgt:63cm byr:2012 cid:104
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1956 hgt:169cm iyr:2013 pid:370491367 ecl:gry hcl:#5bc41d
+	Tiene: 6 Válidos: 6 resultado: 0
+hgt:166cm eyr:2032 ecl:gry byr:1936 pid:41703652
+	Tiene: 5 Válidos: 5 resultado: 0
+eyr:2025 pid:972163513 hgt:155cm ecl:brn cid:169 iyr:2015 hcl:#6b5442
+	Tiene: 7 Válidos: 6 resultado: 0
+eyr:2021 hcl:#341e13 iyr:2018 pid:502081929 ecl:blu
+	Tiene: 5 Válidos: 5 resultado: 0
+byr:1965 cid:250 ecl:oth iyr:2016 pid:242792947 eyr:2025 hcl:#efcc98
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:amb byr:1921 hgt:182cm eyr:2026 hcl:#c0946f iyr:2010
+	Tiene: 6 Válidos: 6 resultado: 0
+byr:2019 ecl:#e3c288 iyr:1948 hgt:72cm hcl:7da71b eyr:1956
+	Tiene: 6 Válidos: 6 resultado: 0
+hcl:#cfa07d pid:688405238 cid:200 byr:1950 iyr:2020 ecl:hzl hgt:170cm
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:2005 ecl:amb hcl:#a97842 iyr:1972 eyr:1967 pid:274884869
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:2038 iyr:2018 pid:181cm ecl:xry hgt:185in hcl:109b28 cid:287
+	Tiene: 7 Válidos: 6 resultado: 0
+iyr:2020 byr:1963 cid:131 hcl:#18171d hgt:181cm pid:146726616 eyr:2021
+	Tiene: 7 Válidos: 6 resultado: 0
+pid:062629370 byr:1931 hgt:188cm eyr:2021 ecl:gry hcl:#166b3d
+	Tiene: 6 Válidos: 6 resultado: 0
+pid:007028786 ecl:blu hgt:156cm byr:1981 hcl:#888785 cid:53 iyr:2019
+	Tiene: 7 Válidos: 6 resultado: 0
+pid:160824363 hcl:#19bed3 eyr:2024 hgt:171cm byr:1968 iyr:2019
+	Tiene: 6 Válidos: 6 resultado: 0
+cid:74 eyr:2020 hgt:71in iyr:2015 pid:487940408 byr:1952 hcl:#733820
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:75cm cid:249 ecl:hzl hcl:#6b5442 pid:4860441 eyr:2020
+	Tiene: 6 Válidos: 5 resultado: 0
+pid:502547835 iyr:2014 hcl:#b6652a byr:1985 hgt:189cm eyr:2024
+	Tiene: 6 Válidos: 6 resultado: 0
+cid:272 pid:0638528559 hcl:z hgt:63cm byr:2029 ecl:zzz eyr:2033
+	Tiene: 7 Válidos: 6 resultado: 0
+iyr:2016 hgt:193cm hcl:#6b5442 pid:715518898 ecl:brn cid:195 eyr:2025
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:oth eyr:2025 hgt:166cm byr:1944 iyr:2017 pid:814141652
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:2026 ecl:brn hgt:157cm pid:038645205 byr:1995 iyr:2019 cid:339
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:brn hgt:70in hcl:#c0946f pid:535498918 cid:153 iyr:2012 eyr:2030
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:oth hgt:184cm byr:1984 iyr:2016 hcl:#cfa07d
+	Tiene: 5 Válidos: 5 resultado: 0
+hcl:#7d3b0c iyr:2013 cid:78 hgt:167cm ecl:brn byr:1974 pid:237404828
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:#866857 hgt:174cm byr:1992 eyr:2028 iyr:2015
+	Tiene: 5 Válidos: 5 resultado: 0
+cid:171 ecl:lzr iyr:2013 eyr:1973 byr:2004 pid:#267099 hgt:101
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1934 hgt:165cm pid:703537570 ecl:hzl iyr:2015 hcl:#888785
+	Tiene: 6 Válidos: 6 resultado: 0
+ecl:amb hcl:#733820 eyr:2030 hgt:178cm pid:692422832 iyr:2019 cid:276
+	Tiene: 7 Válidos: 6 resultado: 0
+iyr:2012 ecl:oth pid:674969358 eyr:2027 hgt:157cm cid:247 hcl:#a97842
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:165cm iyr:2015 eyr:2021 ecl:amb byr:2000 cid:235
+	Tiene: 6 Válidos: 5 resultado: 0
+iyr:2018 pid:809109448 ecl:amb hcl:#b6652a hgt:63in byr:1976 cid:96
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:oth byr:1926 hgt:63 iyr:1948 cid:61 hcl:a528d1 eyr:2034
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1957 hcl:#cfa07d iyr:2010 ecl:amb eyr:2025 pid:921901279
+	Tiene: 6 Válidos: 6 resultado: 0
+ecl:utc pid:154cm byr:1964 eyr:1978 hgt:114 hcl:z
+	Tiene: 6 Válidos: 6 resultado: 0
+pid:949640425 cid:205 hcl:#341e13 ecl:amb hgt:171cm byr:1998
+	Tiene: 6 Válidos: 5 resultado: 0
+hgt:190cm cid:113 ecl:grn eyr:2037 hcl:#ceb3a1 pid:7994792779 iyr:2011
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:152cm iyr:2010 byr:1992 eyr:2020 hcl:#602927 cid:66 pid:604149642
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:amb hcl:#a97842 iyr:2018 hgt:153cm cid:149 eyr:2023 pid:533403632
+	Tiene: 7 Válidos: 6 resultado: 0
+cid:275 ecl:brn iyr:2017 pid:087665205 byr:1945 hcl:#7d3b0c eyr:2025
+	Tiene: 7 Válidos: 6 resultado: 0
+eyr:2030 hgt:177cm hcl:#cfa07d iyr:2018 pid:734113761 byr:1965
+	Tiene: 6 Válidos: 6 resultado: 0
+hgt:163cm byr:1924 ecl:blu cid:125 eyr:2027 hcl:#fffffd pid:137238888
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:174cm hcl:#623a2f eyr:2023 ecl:gry pid:585758460 iyr:2011
+	Tiene: 6 Válidos: 6 resultado: 0
+cid:230 ecl:utc iyr:2022 pid:170cm byr:2015 hcl:#c0946f eyr:2031
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:#341e13 pid:038417039 hgt:61in eyr:2025 iyr:2017 cid:117
+	Tiene: 6 Válidos: 5 resultado: 0
+hcl:z eyr:1969 pid:162cm ecl:#944b0f iyr:2030 byr:2029
+	Tiene: 6 Válidos: 6 resultado: 0
+pid:732388109 hcl:#6b5442 cid:272 eyr:2026 hgt:193cm ecl:amb byr:1982
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:72cm cid:345 pid:911728732 eyr:2025 byr:2004 ecl:#0c4af7 hcl:3bb675
+	Tiene: 7 Válidos: 6 resultado: 0
+pid:171714794 byr:2019 hcl:#866857 cid:290 hgt:183in ecl:#d0c30f eyr:2032
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:162cm ecl:blu pid:675749832 cid:73 byr:1940 hcl:#888785 eyr:2026
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:z hgt:164in iyr:2026 eyr:1961 ecl:#2df35e pid:#5c9ed5 cid:341
+	Tiene: 7 Válidos: 6 resultado: 0
+eyr:2028 iyr:2014 byr:1978 hgt:184cm pid:966277564 ecl:hzl cid:176
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:#888785 ecl:amb cid:329 pid:835961958 byr:1927 eyr:2028 iyr:2016
+	Tiene: 7 Válidos: 6 resultado: 0
+pid:058273969 byr:1942 eyr:2027 hcl:#c0946f iyr:2013 hgt:179cm
+	Tiene: 6 Válidos: 6 resultado: 0
+iyr:2019 hgt:193in pid:52144528 eyr:2036 cid:169 ecl:grt hcl:7e7039
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:#733820 ecl:grn iyr:2018 byr:2001 pid:770957230
+	Tiene: 5 Válidos: 5 resultado: 0
+hgt:193cm eyr:2021 ecl:grn hcl:#602927 byr:1938 iyr:2011
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:1980 ecl:zzz hgt:98 cid:161 pid:#96fe01 hcl:z iyr:1974
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1936 hgt:176cm pid:56797167 iyr:2015 ecl:#07ad47 hcl:z
+	Tiene: 6 Válidos: 6 resultado: 0
+byr:1935 eyr:2022 ecl:grn hcl:#7d3b0c pid:294714199
+	Tiene: 5 Válidos: 5 resultado: 0
+byr:1936 ecl:grn iyr:2013 hcl:#623a2f eyr:2029 hgt:166cm
+	Tiene: 6 Válidos: 6 resultado: 0
+ecl:#81de2c iyr:2021 hgt:176cm eyr:1947 hcl:#888785 pid:1370052400
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:1955 hcl:03199c pid:#3e832e byr:2014 ecl:#453931 hgt:70cm
+	Tiene: 6 Válidos: 6 resultado: 0
+iyr:2017 byr:1971 pid:343492418 hgt:150cm hcl:#fffffd eyr:2024
+	Tiene: 6 Válidos: 6 resultado: 0
+hgt:167in ecl:dne pid:174cm iyr:2019 byr:2005 hcl:b29331 cid:86
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:blu hgt:170cm byr:1932 pid:775223495 eyr:2024 iyr:2015
+	Tiene: 6 Válidos: 6 resultado: 0
+hgt:188cm iyr:2012 hcl:#fffffd byr:1942 ecl:brn pid:804371742
+	Tiene: 6 Válidos: 6 resultado: 0
+hgt:171cm hcl:#888785 cid:274 ecl:grn pid:919263460 eyr:2023 iyr:2020
+	Tiene: 7 Válidos: 6 resultado: 0
+pid:606726472 eyr:2022 byr:2008 ecl:zzz cid:72 hgt:173in
+	Tiene: 6 Válidos: 5 resultado: 0
+hgt:169cm pid:755822781 byr:1984 ecl:hzl hcl:#6b5442 iyr:2014
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:2020 byr:1942 cid:85 hgt:157cm pid:558287447 hcl:#efcc98 ecl:hzl
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:1969 iyr:2015 eyr:2026 ecl:blu hcl:#fffffd pid:005695878 cid:273
+	Tiene: 7 Válidos: 6 resultado: 0
+byr:2011 iyr:2020 ecl:zzz hcl:z pid:412624100 eyr:2031
+	Tiene: 6 Válidos: 6 resultado: 0
+eyr:2021 ecl:gry pid:587324819 hgt:187cm byr:1951 hcl:#6b5442
+	Tiene: 6 Válidos: 6 resultado: 0
+hcl:#733820 cid:150 ecl:hzl pid:843607639 hgt:190cm byr:1958 eyr:2025
+	Tiene: 7 Válidos: 6 resultado: 0
+hgt:171cm eyr:2040 ecl:dne hcl:#6b5442 iyr:2020 byr:1990
+	Tiene: 6 Válidos: 6 resultado: 0
+hcl:#fffffd hgt:154cm byr:1979 eyr:2020 iyr:2018 pid:118713281 cid:174
+	Tiene: 7 Válidos: 6 resultado: 0
+hcl:#602927 eyr:2025 pid:232338168 hgt:174cm cid:322 iyr:2010 ecl:oth
+	Tiene: 7 Válidos: 6 resultado: 0
+eyr:2026 ecl:amb byr:1921 cid:336 iyr:2020 hgt:182cm pid:533626984
+	Tiene: 7 Válidos: 6 resultado: 0
+ecl:hzl pid:426060511 hgt:159cm byr:1922 hcl:#6ffd04 iyr:2017
+	Tiene: 6 Válidos: 6 resultado: 0
+ecl:amb hgt:170cm eyr:2025 byr:1930 iyr:2018 hcl:#733820 cid:262
+	Tiene: 7 Válidos: 6 resultado: 0
+Solución 170 de 253
+Elapsed time: 0.0040068626 seconds.
