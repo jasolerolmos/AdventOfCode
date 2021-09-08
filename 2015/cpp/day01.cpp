@@ -5,9 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
 vector<string> readFileString() {
-    
     ifstream file("../input/input01.txt");
     string str;
     vector<string> lineas;
