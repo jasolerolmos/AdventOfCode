@@ -1,4 +1,5 @@
 #include <iostream>
+#include <sstream>
 #include <vector>
 #include <string>
 #include <fstream>
@@ -60,14 +61,12 @@ int part1(vector<string> lineas){
                 break;
         }
         
-        string locCasa = printf(ejeX+ " " + ejeY;
+        ostringstream oss;
+        oss << ejeX << " " << ejeY;
+        string locCasa = oss.str();
 
-        if (find(casa.begin(), casa.end(), locCasa) != casa.end()){
-            cout << "Repetido: " << locCasa << endl;
-        }
-        else {
+        if (find(casa.begin(), casa.end(), locCasa) == casa.end()){
             casa.push_back(locCasa);
-            cout << locCasa << endl;
         }
     }
     return casa.size();
@@ -75,8 +74,61 @@ int part1(vector<string> lineas){
 
 int part2(vector<string> lineas){
     int suma = 0;
+    int ejes[] = {0,0};
+    int santa[] = {0,0};
+    int robot[] = {0,0};
 
-    return suma;
+    vector<string> casa;
+    
+    ostringstream oss;
+    oss << ejes[0] << " " << ejes[1];
+    string locCasa = oss.str();
+
+    casa.push_back(locCasa);
+    for(int n = 0; n < lineas[0].size(); n++){
+        oss.str("");
+        oss.clear();
+        if (n % 2 == 0){
+            ejes[0] = santa[0];
+            ejes[1] = santa[1];
+        } else {
+            ejes[0] = robot[0];
+            ejes[1] = robot[1];
+        }
+
+        switch (lineas[0][n]){
+            case '^':
+                ejes[0] += 1;
+                break;
+            case 'v':
+                ejes[0] -= 1;
+                break;
+            case '<':
+                ejes[1] -= 1;
+                break;
+            case '>':
+                ejes[1] += 1;
+                break;
+            default:
+                break;
+        }
+        
+        oss << ejes[0] << " " << ejes[1];
+        locCasa = oss.str();
+
+        if (find(casa.begin(), casa.end(), locCasa) == casa.end()){
+            casa.push_back(locCasa);
+        }
+
+        if (n % 2 == 0){
+            santa[0] = ejes[0];
+            santa[1] = ejes[1];
+        } else {
+            robot[0] = ejes[0];
+            robot[1] = ejes[1];
+        }
+    }
+    return casa.size();
 }
 
 int main () 
