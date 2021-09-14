@@ -24,7 +24,9 @@ int main(int argc, char**argv)
   buf = malloc(filesize);
   fread(buf, filesize, 1, fh);
   fclose(fh);
+  
   md5_result = malloc(MD5_DIGEST_LENGTH);
+  printf("Size: %i", filesize);
   MD5(buf, filesize, md5_result);
   printf("MD5 (%s) = ", argv[1]);
   for (i=0; i < MD5_DIGEST_LENGTH; i++)
