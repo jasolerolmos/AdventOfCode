@@ -54,6 +54,7 @@
         "streambuf": "cpp",
         "thread": "cpp",
         "typeinfo": "cpp",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "sstream": "cpp"
     }
 }

@@ -1,4 +1,4 @@
-    #include <iostream>
+#include <iostream>
 #include <sstream>
 #include <cstring>
 #include <vector>
@@ -6,43 +6,25 @@
 #include <fstream>
 #include <algorithm>
 #include <openssl/md5.h>
+
 using namespace std;
 
-unsigned char *MD5(const unsigned char *d, 
-                   unsigned long n,
-                   unsigned char *md);
+unsigned char *MD5(const unsigned char *d, unsigned long n, unsigned char *md);
 
 vector<string> readFileString() {
-    ifstream file("../input/test04.txt");
-    string str;
     vector<string> lineas;
-
-    while (getline(file, str)) {
-        if(str.size() > 0){
-            lineas.push_back(str+'\0');
+    fstream newfile;
+    newfile.open("../input/input04.txt",ios::in);
+    if (newfile.is_open()){
+        string tp;
+        while(getline(newfile, tp)){
+            lineas.push_back(tp);
         }
+        newfile.close();
     }
-    file.close();
 
     return lineas;
 }
-
-string MD5HexaC(string cad) {
-    int filesize = cad.length();
-    unsigned char * buf =  new unsigned char[12]();
-    unsigned char *md5_result = new unsigned char[12]();
-    char md5string [50] = "";
-    char buffer [50] = "";
-    printf("Size: %i", filesize);
-    MD5(buf, filesize, md5_result);
-    printf("MD5 (%s) = ", cad);
-    for (int i=0; i < MD5_DIGEST_LENGTH; i++) {
-        sprintf(buffer, "%02x",  md5_result[i]);
-        strcat(md5string, buffer);
-    }
-    printf("\n");
-    return "";
-} 
 
 string MD5Hexa(string cad) {
     char buffer [32];
@@ -66,27 +48,21 @@ int part1(vector<string> lineas){
     cout << "Part 1" << endl;
     int num = 0;
 
-    unsigned char * solucion =  new unsigned char[32]();;
-    
-
-    for(int i = 0; i < lineas.size(); i++){
-        printf(") %s", lineas[i]);
-    }
-
+    unsigned char * solucion =  new unsigned char[32]();
 
     while(!found){
         ostringstream oss;
-        oss << lineas[0] << "0";
+        oss << lineas[0] << to_string(num);
         string hashMD5 = oss.str();
-        string MD5String = MD5Hexa(lineas[0]);
+        string MD5String = MD5Hexa(hashMD5);
         
-        cout << lineas[0] << " => " << MD5String << endl;
         if (MD5String.substr(0,5) == "00000"){
             cout << "Encontrado: " << num << endl;
+            cout << hashMD5 << " => " << MD5String << endl;
             found = true;
+        } else {
+            num ++;
         }
-        num ++;
-        found = true;
     }
     return num;
 }
@@ -153,12 +129,8 @@ int part2(vector<string> lineas){
 int main () 
 {   
     vector<string> lineas = readFileString();
-    char src[] = "abcdef";
-
-    cout << "abcdef609043" << " in Hexadecimal: " << MD5Hexa("abcdef609043") << endl;
-    cout << "abcdef0" << " in Hexadecimal: " << MD5Hexa("abcdef0") << endl;
     int solucion = part1(lineas);
-    cout << "Part 1, Solución: " << solucion << endl;
+    cout << "Part 1, Solución: " << to_string(solucion) << endl;
     //solucion = part2(lineas);
     //cout << "Part 2, Solución: " << solucion << endl;
     return 0;
