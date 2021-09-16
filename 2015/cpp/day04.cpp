@@ -5,6 +5,7 @@
 #include <string>
 #include <fstream>
 #include <algorithm>
+#include <time.h>
 #include <openssl/md5.h>
 
 using namespace std;
@@ -42,96 +43,44 @@ string MD5Hexa(string cad) {
     return md5string;
 }
 
-int part1(vector<string> lineas){
-    int suma = 0;
+int calcRange(string cad, int value, int incremento, string search){
     bool found = false;
-    cout << "Part 1" << endl;
     int num = 0;
 
     unsigned char * solucion =  new unsigned char[32]();
 
     while(!found){
         ostringstream oss;
-        oss << lineas[0] << to_string(num);
+        oss << cad << to_string(num);
         string hashMD5 = oss.str();
         string MD5String = MD5Hexa(hashMD5);
         
-        if (MD5String.substr(0,5) == "00000"){
+        if (MD5String.substr(value,search.length()) == search){
             cout << "Encontrado: " << num << endl;
             cout << hashMD5 << " => " << MD5String << endl;
             found = true;
         } else {
-            num ++;
+            num = num + incremento;
         }
     }
     return num;
 }
 
-int part2(vector<string> lineas){
-    int suma = 0;
-    int ejes[] = {0,0};
-    int santa[] = {0,0};
-    int robot[] = {0,0};
-
-    vector<string> casa;
-    
-    ostringstream oss;
-    oss << ejes[0] << " " << ejes[1];
-    string locCasa = oss.str();
-
-    casa.push_back(locCasa);
-    for(int n = 0; n < lineas[0].size(); n++){
-        oss.str("");
-        oss.clear();
-        if (n % 2 == 0){
-            ejes[0] = santa[0];
-            ejes[1] = santa[1];
-        } else {
-            ejes[0] = robot[0];
-            ejes[1] = robot[1];
-        }
-
-        switch (lineas[0][n]){
-            case '^':
-                ejes[0] += 1;
-                break;
-            case 'v':
-                ejes[0] -= 1;
-                break;
-            case '<':
-                ejes[1] -= 1;
-                break;
-            case '>':
-                ejes[1] += 1;
-                break;
-            default:
-                break;
-        }
-        
-        oss << ejes[0] << " " << ejes[1];
-        locCasa = oss.str();
-
-        if (find(casa.begin(), casa.end(), locCasa) == casa.end()){
-            casa.push_back(locCasa);
-        }
-
-        if (n % 2 == 0){
-            santa[0] = ejes[0];
-            santa[1] = ejes[1];
-        } else {
-            robot[0] = ejes[0];
-            robot[1] = ejes[1];
-        }
-    }
-    return casa.size();
-}
-
 int main () 
 {   
     vector<string> lineas = readFileString();
-    int solucion = part1(lineas);
-    cout << "Part 1, Solución: " << to_string(solucion) << endl;
-    //solucion = part2(lineas);
-    //cout << "Part 2, Solución: " << solucion << endl;
+    cout << "\nPart 1, Solución: " << endl;
+
+    clock_t tStart = clock();
+    int solucion = calcRange(lineas[0], 0, 1, "00000");
+    cout << "\t" << to_string(solucion) << endl;
+    printf("Time: %.2fs\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
+    
+    cout << "\nPart 2, Solución: " << endl;
+    tStart = clock();
+    solucion = calcRange(lineas[0], 0, 1, "000000");
+    cout << "\t" <<  to_string(solucion) << endl;
+    printf("Time: %.2fs\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
+    
     return 0;
 }
