@@ -39,7 +39,7 @@ public class Day03 extends Day {
 			}
 		}
 		
-		System.out.println("Solución: " + casas.size());
+		System.out.println("Solucion: " + casas.size());
 	}
 	
 	
@@ -89,7 +89,7 @@ public class Day03 extends Day {
 			
 		}
 		
-		System.out.println("Solución: " + casas.size());
+		System.out.println("Solucion: " + casas.size());
 	}
 	
 	public static void main(String[] args) {
