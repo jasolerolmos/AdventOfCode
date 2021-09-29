@@ -35,7 +35,15 @@ def Toggle(p1, p2):
     for y in range(pA[0],pB[0]+1):
         for x in range(pA[1],pB[1]+1):
             lights[y][x] = (lights[y][x] + 1) % 2
-    
+
+def Toggle2(p1, p2):
+    pA = [int(c) for c in p1.split(',')]
+    pB = [int(c) for c in p2.split(',')]
+
+    for y in range(pA[0],pB[0]+1):
+        for x in range(pA[1],pB[1]+1):
+            lights[y][x] = lights[y][x] + 2
+
 def LightsOn():
     sum = 0
     for y in range(0, size[0]):
@@ -43,6 +51,14 @@ def LightsOn():
             sum += lights[y][x]
     
     return sum
+
+def OnOff2(p1, p2, val):
+    pA = [int(c) for c in p1.split(',')]
+    pB = [int(c) for c in p2.split(',')]
+
+    for y in range(pA[0],pB[0]+1):
+        for x in range(pA[1],pB[1]+1):
+            lights[y][x] = lights[y][x] + val
 
 
 def Part1():
@@ -66,4 +82,34 @@ def Part1():
 
     print(f"{lights}")
     print(f"{LightsOn()}")
+
+
+def Part2():
+    [lines, start_time] = Init(day, "2")
+    solucion = 0
+
+    print(f"{lights}")
+    for line in lines:
+        parts = CleanLine(line).split(" ")
+        if len(line.split(" ")) == 4:
+            print(f"Toggle: {parts[1]} - {parts[3]}")
+            CountLight(parts[1], parts[3])
+            OnOff2(parts[1], parts[3], 2)
+        else:
+            print(f"on/off: {parts[2]} - {parts[4]}")
+            CountLight(parts[2], parts[4])
+            if parts[1] == 'on':
+                OnOff2(parts[2], parts[4], 1)
+            else:
+                OnOff2(parts[2], parts[4], -1)
+
+    sum = 0
+    for y in range(0, size[0]):
+        for x in range(0, size[1]):
+            sum += lights[y][x]
+    
+
+    print(f"{lights}")
+    print(f"{sum}")
 Part1()
+Part2()
