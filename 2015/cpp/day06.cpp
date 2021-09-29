@@ -81,9 +81,10 @@ void VerLights(int** lights) {
     }
 }
 
-int * AnalizeLine(string p1, string p2){
+int* AnalizeLine(string p1, string p2){
     vector<string> pa = split(p1, ",");
     vector<string> pb = split(p2, ",");
+    static int puntos[] = {atoi(pa[0].c_str()), atoi(pa[1].c_str()), atoi(pb[0].c_str()), atoi(pb[1].c_str())};
     int *points = new int[4];
     points[0] = atoi(pa[0].c_str());
     points[1] = atoi(pa[1].c_str());
