@@ -5,7 +5,6 @@ day = 5
 def Part1():
     [lines, start_time] = Init(day, "1")
     solucion = 0
-    
 
     Solution(solucion, start_time, 0)
 
