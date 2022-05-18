@@ -1,8 +1,14 @@
 from classes import Solution, Init, CleanLine
 import numpy as np
+import sys
 
 day = 6
 size = [1000,1000]
+
+if len(sys.argv) > 1 and sys.argv[1]=='test':
+    size = [10,10]
+else:
+    size = [1000,1000]
 
 lights = np.full((size[0],size[1]), 0)
 
@@ -91,17 +97,24 @@ def Part2():
     print(f"{lights}")
     for line in lines:
         parts = CleanLine(line).split(" ")
+        print(parts)
         if len(line.split(" ")) == 4:
             print(f"Toggle: {parts[1]} - {parts[3]}")
-            CountLight(parts[1], parts[3])
+            counter = CountLight(parts[1], parts[3])
+            print(f"=> {counter} * 2")
+            solucion = solucion + counter*2
+            #CountLight(parts[1], parts[3])
             OnOff2(parts[1], parts[3], 2)
         else:
             print(f"on/off: {parts[2]} - {parts[4]}")
-            CountLight(parts[2], parts[4])
+            counter = CountLight(parts[2], parts[4])
+            print(f"=> {counter} ")
             if parts[1] == 'on':
                 OnOff2(parts[2], parts[4], 1)
+                solucion = solucion + counter
             else:
                 OnOff2(parts[2], parts[4], -1)
+                solucion = solucion - counter
 
     sum = 0
     for y in range(0, size[0]):
@@ -109,7 +122,10 @@ def Part2():
             sum += lights[y][x]
     
 
-    print(f"{lights}")
+    #print(f"{lights}")
+    for col in lights:
+        print(f"{col}")
     print(f"{sum}")
-Part1()
+    print(f"Solución: {solucion}")
+#Part1()
 Part2()
