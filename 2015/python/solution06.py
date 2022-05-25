@@ -24,3 +24,4 @@ def solve(data, grid_size=range(1000)):
 
 data = map(parse_line, open("../input/input06.txt").read().splitlines())
 print(solve(data))
+

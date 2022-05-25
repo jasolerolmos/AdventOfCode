@@ -12,10 +12,6 @@ else:
 
 lights = np.full((size[0],size[1]), 0)
 
-def Part2():
-    [lines, start_time] = Init(day, "1")
-    solucion = 0
-
 def CountLight(p1, p2):
     pA = [int(c) for c in p1.split(',')]
     pB = [int(c) for c in p2.split(',')]
@@ -66,49 +62,37 @@ def OnOff2(p1, p2, val):
         for x in range(pA[1],pB[1]+1):
             lights[y][x] = lights[y][x] + val
 
-
 def Part1():
-    [lines, start_time] = Init(day, "2")
+    [lines, start_time] = Init(day, "1")
     solucion = 0
 
-    print(f"{lights}")
     for line in lines:
         parts = CleanLine(line).split(" ")
         if len(line.split(" ")) == 4:
-            print(f"Toggle: {parts[1]} - {parts[3]}")
             CountLight(parts[1], parts[3])
             Toggle(parts[1], parts[3])
         else:
-            print(f"on/off: {parts[2]} - {parts[4]}")
             CountLight(parts[2], parts[4])
             if parts[1] == 'on':
                 OnOff(parts[2], parts[4], 1)
             else:
                 OnOff(parts[2], parts[4], 0)
 
-    print(f"{lights}")
-    print(f"{LightsOn()}")
-
+    print(f"\t{LightsOn()}")
 
 def Part2():
     [lines, start_time] = Init(day, "2")
     solucion = 0
 
-    print(f"{lights}")
     for line in lines:
         parts = CleanLine(line).split(" ")
-        print(parts)
         if len(line.split(" ")) == 4:
-            print(f"Toggle: {parts[1]} - {parts[3]}")
             counter = CountLight(parts[1], parts[3])
-            print(f"=> {counter} * 2")
             solucion = solucion + counter*2
             #CountLight(parts[1], parts[3])
             OnOff2(parts[1], parts[3], 2)
         else:
-            print(f"on/off: {parts[2]} - {parts[4]}")
             counter = CountLight(parts[2], parts[4])
-            print(f"=> {counter} ")
             if parts[1] == 'on':
                 OnOff2(parts[2], parts[4], 1)
                 solucion = solucion + counter
@@ -121,11 +105,7 @@ def Part2():
         for x in range(0, size[1]):
             sum += lights[y][x]
     
+    print(f"\t{solucion}")
 
-    #print(f"{lights}")
-    for col in lights:
-        print(f"{col}")
-    print(f"{sum}")
-    print(f"Solución: {solucion}")
-#Part1()
+Part1()
 Part2()
